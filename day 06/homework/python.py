@@ -16,4 +16,14 @@ print(name)
 # 5)
 year = 2025
 print(year)
-# debuging არის როდესაც შეცდომას დაუშვებ
+# debuging შეცდომის  გამოსწორება
+# camel-case მაგ:
+print("sabaGigani")
+print("helloWorld")
+# snake-case მაგ:
+name_saba="saba"
+sur_name= "gigani"
+print("saba_gigani")
+print("hello_world")
+# case-sensitive case-ის მნიშვნელობა      
+
