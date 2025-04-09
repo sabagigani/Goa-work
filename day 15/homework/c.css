@@ -1,0 +1,28 @@
+
+body{
+        background-image: url('./Cool-Dark-Background-Wallpapers-17892.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        
+        font-family: "Pixelify Sans", sans-serif;
+      
+
+}
+h1{
+        color: white;
+}
+ a:hover{
+    color: lime;
+    
+        
+}
+a{
+    transition: 0.2s;
+}
+p{
+    color: white;
+}
+
+
+  
