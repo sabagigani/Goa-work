@@ -1,0 +1,17 @@
+body{
+    color: coral;
+}
+header{
+    text-align: center;
+
+}
+header:hover{
+    background-color: aqua;
+}
+main:hover{
+    background-color: aqua;
+}
+footer{
+    size: -10px;
+    vertical-align: text-bottom;
+}
