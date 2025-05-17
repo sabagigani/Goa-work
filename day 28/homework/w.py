@@ -1,0 +1,9 @@
+name=["hi","guram","hi","hi"]
+print(name)
+i=["hi","hi","hi",1,1,1]
+d=["h1","h1","h1","h1","h1"]
+print(i,d)
+v=["hi","hi","hi","hi","hi"]
+m=[True,False,True,False,True]
+n=[1,1,1,1,1]
+print(v,m,n)
